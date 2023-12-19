@@ -29,3 +29,5 @@ Required Resources
 * Additional PC(s) on a local-area network (LAN) will be used to reply to ping requests. If no additional PCs are on the LAN, the default gateway address will be used to reply to the ping requests.
 
 https://github.com/arren-a/Lab-View-Captured-Traffic-in-Wireshark/wiki
+
+Source: Cisco Networking Academy 
