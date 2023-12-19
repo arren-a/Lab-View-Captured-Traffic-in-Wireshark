@@ -1,9 +1,10 @@
-Part 1: Download and Install Wireshark
+# Part 1: Download and Install Wireshark
 Wireshark has become the industry standard packet-sniffer program used by network engineers. This open source software is available for many different operating systems, including Windows, Mac, and Linux.
 
 If Wireshark is already installed on your PC, you can skip Part 1 and go directly to Part 2. If Wireshark is not installed on your PC, check with your instructor about your academy’s software download policy.
 
 Step 1: Download Wireshark.
+
 a.     Wireshark can be downloaded from www.wireshark.org.
 
 b.     Click Download.
@@ -12,7 +13,9 @@ c.     Choose the software version you need based on your PC’s architecture an
 
 d.     After making the selection, the download should start. Click Save File if prompted. The location of the downloaded file depends on the browser and operating system that you use. For Windows users, the default location is the Downloads folder.
 
+
 Step 2: Install Wireshark.
+
 a.     The downloaded file is named Wireshark-win64-x.x.x.exe, where x represents the version number. Double-click the file to start the installation process.
 
 b.     Respond to any security messages that may display on your screen. If you already have a copy of Wireshark on your PC, you maybe prompted to uninstall the old version before installing the new version. It is recommended that you remove the old version of Wireshark prior to installing another version. Click Yes to uninstall the previous version of Wireshark.
