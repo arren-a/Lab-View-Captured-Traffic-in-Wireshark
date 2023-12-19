@@ -1,6 +1,7 @@
 # Lab-View-Captured-Traffic-in-Wireshark
 
 **Objectives**
+
 Part 1: Download and Install Wireshark
 
 Part 2: Capture and Analyze ARP Data in Wireshark
